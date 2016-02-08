@@ -1,5 +1,5 @@
 # StandAloneTrackingDevice
-Stand-Alone Tracking device based on arduino hardware (No GSM)
+Stand-Alone Low-Cost Tracking device based on arduino hardware (No GSM)
 
 The current status is:
 1. GPS code is ready and working - getting struct data of GPS.
